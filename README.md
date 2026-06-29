@@ -8,7 +8,7 @@ A modern, interactive tool for visualizing and customizing CSS border-radius val
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url-here.com) *(Update this link after deployment)*
+[View Live Demo](https://your-demo-url-here.com)
 
 ## Features
 
