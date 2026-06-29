@@ -8,7 +8,7 @@ A modern, interactive tool for visualizing and customizing CSS border-radius val
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url-here.com)
+[View Live Demo](https://fenixdj3.github.io/border-radius-previewer/)
 
 ## Features
 
